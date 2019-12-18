@@ -4,13 +4,16 @@
    contain the root `toctree` directive.
 
 欢迎光临Williamz的小屋!
-=========================================
+=======================
 
 .. toctree::
    :maxdepth: 2
    :caption: 内容:
 
-   excel
+   Excel
+   Python
+   会计
+   
 
 Indices and tables
 ==================
