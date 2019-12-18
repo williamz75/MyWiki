@@ -10,7 +10,7 @@
    :maxdepth: 2
    :caption: 内容:
 
-   Excel
+   excel
    Python
    会计
    
